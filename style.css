@@ -70,3 +70,7 @@ html,body{
 @-ms-keyframes love {
   0%{top:110%}
 }
+
+body{
+  font-size: 150px;
+}
